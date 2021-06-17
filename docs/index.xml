@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning-challenge</title>
-    <link>https://example.com/</link>
+    <link>https://prakash-ramanathan1211.github.io/learning-challenge-app/</link>
     <description>Recent content on Learning-challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Jun 2021 14:46:13 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://prakash-ramanathan1211.github.io/learning-challenge-app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning Challenege</title>
-      <link>https://example.com/posts/learning-challenege/</link>
+      <link>https://prakash-ramanathan1211.github.io/learning-challenge-app/posts/learning-challenege/</link>
       <pubDate>Thu, 17 Jun 2021 14:46:13 +0530</pubDate>
       
-      <guid>https://example.com/posts/learning-challenege/</guid>
+      <guid>https://prakash-ramanathan1211.github.io/learning-challenge-app/posts/learning-challenege/</guid>
       <description>this is my learning challenge app</description>
     </item>
     
